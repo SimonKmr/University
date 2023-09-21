@@ -1,0 +1,5 @@
+﻿58AC00 + 11C = Total Ammo
+58AC00 + 140 = Current Magazin
+58AC00 + EC = Health
+recoil code address = 004C2EC3 | ac_client.exe + C2EC3 bis C2EC8
+animation code = ac_client.exe + C73E7
